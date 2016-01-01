@@ -6,5 +6,6 @@ public class push_1 {
     {
         System.out.println("This is an example");
         System.out.println("first commit ends here");
+        System.out.println("second commit here");
     }
 }
